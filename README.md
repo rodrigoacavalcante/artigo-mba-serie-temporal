@@ -11,6 +11,9 @@ produto com a série temporal de outro produto correlacionado.
 
 ## Conteúdo
 
+- `TCC_Rodrigo_Cavalcante_Banana.pdf`: versão mais recente do trabalho completo (Introdução,
+  Referencial Teórico, Metodologia, Resultados e Discussão, Conclusão). Este arquivo é
+  atualizado no lugar (mesmo nome) a cada nova revisão do texto.
 - `analise_banana.ipynb`: notebook Jupyter único e reprodutível com toda a análise exploratória,
   o tratamento dos dados, a análise de correlação e os modelos de previsão descritos no trabalho.
 - `amostra_serie_mercadorias.csv`: amostra representativa (estratificada por dia, cobrindo os 90
